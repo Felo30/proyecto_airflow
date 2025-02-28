@@ -1,0 +1,501 @@
+fecha,producto,categoria,cantidad,precio_unitario,total_venta,cliente
+2024-06-14,Laptop Dell XPS,Componentes,3,794.11,2382.33,Empresa A
+2024-08-20,Cargador USB-C,Redes,18,424.99,7649.82,Empresa B
+2024-01-28,Micrófono Condensador,Accesorios,14,654.59,9164.26,Empresa A
+2024-07-04,Memoria RAM 16GB,Energía,5,266.95,1334.75,Freelancer
+2024-09-01,Base Refrigerante,Accesorios,18,185.59,3340.62,Empresa B
+2024-05-10,Escritorio Gamer,Software,15,265.78,3986.7,Empresa A
+2024-06-12,Hub USB 3.0,Monitores,3,313.26,939.78,Distribuidor D
+2024-07-08,Mouse Inalámbrico,Componentes,20,406.82,8136.4,Startup C
+2024-10-04,Silla Ergonómica,Audio & Video,10,335.1,3351.0,Startup C
+2024-06-10,Panel de Control Stream Deck,Componentes,20,633.25,12665.0,Freelancer
+2024-08-17,Monitor 27'' 4K,Almacenamiento,18,207.89,3742.02,Startup C
+2024-11-17,Mochila para Laptop,Software,8,481.51,3852.08,Freelancer
+2024-03-17,Procesador AMD Ryzen 9,Software,1,655.51,655.51,Empresa B
+2024-01-08,Silla Ergonómica,Monitores,11,63.17,694.87,Freelancer
+2024-09-24,Audífonos Bluetooth,Accesorios,10,79.52,795.2,Startup C
+2024-08-25,Base Refrigerante,Software,7,474.25,3319.75,Freelancer
+2024-04-20,Monitor 27'' 4K,Almacenamiento,12,333.85,4006.2,Distribuidor D
+2024-09-12,Placa de Video RTX 3060,Almacenamiento,15,972.01,14580.15,Distribuidor D
+2024-08-28,Cargador USB-C,Periféricos,3,639.62,1918.86,Empresa B
+2024-08-28,Mochila para Laptop,Periféricos,14,578.94,8105.16,Startup C
+2024-12-13,Mochila para Laptop,Energía,10,213.67,2136.7,Distribuidor D
+2024-04-04,Silla Ergonómica,Mobiliario,4,943.15,3772.6,Empresa A
+2024-09-11,Impresora Láser,Accesorios,8,295.79,2366.32,Empresa A
+2024-06-09,Impresora Láser,Almacenamiento,6,292.21,1753.26,Empresa A
+2024-09-21,Licencia Visual Studio,Monitores,3,53.95,161.85,Empresa A
+2024-02-28,Lámpara LED,Software,1,215.38,215.38,Empresa B
+2024-07-12,Tablet Samsung,Componentes,17,29.33,498.61,Startup C
+2024-02-10,Teclado Mecánico,Software,18,111.66,2009.88,Empresa B
+2024-02-19,SSD NVMe 1TB,Componentes,13,859.52,11173.76,Empresa A
+2024-11-11,Mochila para Laptop,Periféricos,9,109.72,987.48,Empresa B
+2024-05-12,Audífonos Bluetooth,Software,11,537.27,5909.97,Freelancer
+2024-05-04,Impresora Láser,Redes,9,337.78,3040.02,Empresa A
+2024-10-02,Router WiFi 6,Audio & Video,8,939.05,7512.4,Empresa A
+2024-10-06,SSD NVMe 1TB,Monitores,3,168.64,505.92,Distribuidor D
+2024-08-12,Soporte para Monitor,Componentes,7,252.3,1766.1,Distribuidor D
+2024-08-26,Fuente 750W Modular,Mobiliario,10,539.14,5391.4,Distribuidor D
+2024-04-27,Escritorio Gamer,Periféricos,19,183.19,3480.61,Distribuidor D
+2024-09-21,Cámara Web HD,Mobiliario,9,199.26,1793.34,Freelancer
+2024-06-03,Fuente 750W Modular,Software,19,328.95,6250.05,Empresa A
+2024-11-19,Router WiFi 6,Energía,11,142.75,1570.25,Distribuidor D
+2024-12-15,Base Refrigerante,Energía,3,135.94,407.82,Distribuidor D
+2024-01-03,Router WiFi 6,Almacenamiento,19,212.93,4045.67,Startup C
+2024-08-22,Laptop Dell XPS,Mobiliario,3,798.12,2394.36,Freelancer
+2024-09-16,Silla Ergonómica,Redes,7,133.59,935.13,Startup C
+2024-10-20,Silla Ergonómica,Software,6,240.14,1440.84,Startup C
+2024-10-11,Placa de Video RTX 3060,Redes,7,476.24,3333.68,Startup C
+2024-03-19,Router WiFi 6,Almacenamiento,18,800.47,14408.46,Empresa B
+2024-09-24,Mochila para Laptop,Periféricos,6,361.99,2171.94,Startup C
+2024-02-11,Soporte para Monitor,Periféricos,19,112.99,2146.81,Freelancer
+2024-04-20,Procesador AMD Ryzen 9,Software,3,167.1,501.3,Startup C
+2024-11-10,Mouse Inalámbrico,Componentes,11,850.24,9352.64,Startup C
+2024-04-12,Cámara Web HD,Almacenamiento,8,346.56,2772.48,Empresa A
+2024-10-27,Micrófono Condensador,Monitores,4,47.76,191.04,Freelancer
+2024-01-20,Fuente 750W Modular,Componentes,14,54.41,761.74,Startup C
+2024-09-21,Base Refrigerante,Redes,17,438.89,7461.13,Startup C
+2024-09-04,Router WiFi 6,Monitores,4,438.06,1752.24,Empresa A
+2024-01-13,Cámara Web HD,Energía,4,807.09,3228.36,Startup C
+2024-11-26,Micrófono Condensador,Componentes,5,811.08,4055.4,Distribuidor D
+2024-12-06,Micrófono Condensador,Software,15,103.65,1554.75,Empresa B
+2024-03-22,Teclado Mecánico,Energía,12,806.14,9673.68,Distribuidor D
+2024-01-19,Teclado Mecánico,Monitores,8,435.3,3482.4,Empresa B
+2024-03-09,Router WiFi 6,Software,11,345.61,3801.71,Freelancer
+2024-02-12,Impresora Láser,Redes,5,302.77,1513.85,Freelancer
+2024-01-19,Impresora Láser,Redes,5,858.76,4293.8,Startup C
+2024-04-12,Memoria RAM 16GB,Mobiliario,8,801.88,6415.04,Empresa A
+2024-01-18,Mouse Inalámbrico,Redes,1,563.53,563.53,Freelancer
+2024-05-25,Silla Ergonómica,Almacenamiento,15,614.86,9222.9,Distribuidor D
+2024-08-24,Cargador USB-C,Mobiliario,17,154.99,2634.83,Startup C
+2024-09-27,Monitor 27'' 4K,Energía,17,318.21,5409.57,Empresa A
+2024-09-06,Procesador AMD Ryzen 9,Almacenamiento,1,786.32,786.32,Empresa A
+2024-06-22,Base Refrigerante,Componentes,7,348.94,2442.58,Empresa B
+2024-05-07,Hub USB 3.0,Software,11,802.75,8830.25,Freelancer
+2024-05-13,Monitor 27'' 4K,Redes,15,293.18,4397.7,Startup C
+2024-11-09,Mochila para Laptop,Redes,7,991.97,6943.79,Empresa B
+2024-11-20,Placa de Video RTX 3060,Monitores,14,845.01,11830.14,Freelancer
+2024-02-26,Monitor 27'' 4K,Audio & Video,18,226.03,4068.54,Empresa A
+2024-08-16,Laptop Dell XPS,Periféricos,8,399.67,3197.36,Distribuidor D
+2024-07-24,Procesador AMD Ryzen 9,Audio & Video,12,882.86,10594.32,Distribuidor D
+2024-08-14,Panel de Control Stream Deck,Software,7,324.41,2270.87,Freelancer
+2024-06-25,Escritorio Gamer,Monitores,8,759.8,6078.4,Freelancer
+2024-07-22,Licencia Visual Studio,Audio & Video,4,669.77,2679.08,Freelancer
+2024-10-08,SSD NVMe 1TB,Redes,3,408.39,1225.17,Empresa A
+2024-06-27,Audífonos Bluetooth,Monitores,1,389.36,389.36,Startup C
+2024-07-08,Procesador AMD Ryzen 9,Energía,14,142.26,1991.64,Empresa A
+2024-02-05,Escritorio Gamer,Periféricos,18,807.66,14537.88,Startup C
+2024-08-02,Placa de Video RTX 3060,Mobiliario,7,454.5,3181.5,Startup C
+2024-04-16,Audífonos Bluetooth,Accesorios,7,901.44,6310.08,Empresa A
+2024-05-12,SSD NVMe 1TB,Accesorios,5,442.41,2212.05,Empresa A
+2024-10-03,Laptop Dell XPS,Monitores,20,881.29,17625.8,Freelancer
+2024-09-07,Mouse Inalámbrico,Periféricos,6,52.89,317.34,Empresa B
+2024-05-19,Cargador USB-C,Almacenamiento,10,752.67,7526.7,Empresa B
+2024-06-09,Panel de Control Stream Deck,Redes,9,722.11,6498.99,Empresa A
+2024-02-10,Tablet Samsung,Almacenamiento,4,970.01,3880.04,Empresa B
+2024-08-03,Audífonos Bluetooth,Componentes,8,816.35,6530.8,Startup C
+2024-09-14,Silla Ergonómica,Audio & Video,5,228.0,1140.0,Empresa A
+2024-11-04,Laptop Dell XPS,Software,19,893.49,16976.31,Distribuidor D
+2024-10-22,Micrófono Condensador,Redes,16,125.09,2001.44,Empresa A
+2024-01-27,Lámpara LED,Software,5,216.65,1083.25,Freelancer
+2024-08-03,Lámpara LED,Accesorios,11,139.22,1531.42,Empresa B
+2024-01-02,Micrófono Condensador,Energía,17,703.31,11956.27,Empresa A
+2024-01-19,Router WiFi 6,Componentes,6,641.53,3849.18,Empresa B
+2024-12-07,Fuente 750W Modular,Componentes,19,914.82,17381.58,Empresa B
+2024-08-12,Impresora Láser,Monitores,5,668.06,3340.3,Distribuidor D
+2024-10-21,Tablet Samsung,Mobiliario,9,315.47,2839.23,Empresa B
+2024-04-01,Licencia Visual Studio,Componentes,14,87.0,1218.0,Empresa A
+2024-06-13,Router WiFi 6,Mobiliario,6,440.09,2640.54,Freelancer
+2024-08-26,Silla Ergonómica,Energía,15,484.15,7262.25,Distribuidor D
+2024-05-22,Laptop Dell XPS,Monitores,6,387.6,2325.6,Distribuidor D
+2024-07-12,Lámpara LED,Accesorios,2,150.79,301.58,Empresa A
+2024-08-14,SSD NVMe 1TB,Redes,6,525.98,3155.88,Distribuidor D
+2024-05-15,Laptop Dell XPS,Mobiliario,10,335.39,3353.9,Distribuidor D
+2024-12-18,Base Refrigerante,Redes,2,306.1,612.2,Freelancer
+2024-04-13,Cámara Web HD,Componentes,7,450.59,3154.13,Empresa B
+2024-01-14,Cámara Web HD,Componentes,13,20.96,272.48,Empresa B
+2024-02-25,Hub USB 3.0,Software,20,160.82,3216.4,Freelancer
+2024-06-06,Impresora Láser,Monitores,9,635.18,5716.62,Freelancer
+2024-01-20,Fuente 750W Modular,Periféricos,17,642.41,10920.97,Distribuidor D
+2024-04-14,Audífonos Bluetooth,Monitores,7,911.56,6380.92,Empresa A
+2024-04-18,Laptop Dell XPS,Periféricos,17,845.33,14370.61,Freelancer
+2024-04-23,Fuente 750W Modular,Audio & Video,5,975.49,4877.45,Distribuidor D
+2024-06-13,Router WiFi 6,Monitores,12,324.24,3890.88,Distribuidor D
+2024-02-25,Mouse Inalámbrico,Monitores,8,856.85,6854.8,Empresa B
+2024-01-07,Fuente 750W Modular,Monitores,2,897.43,1794.86,Freelancer
+2024-05-08,Memoria RAM 16GB,Energía,1,889.03,889.03,Empresa A
+2024-05-04,Cámara Web HD,Energía,18,830.26,14944.68,Distribuidor D
+2024-11-09,Laptop Dell XPS,Componentes,14,960.66,13449.24,Distribuidor D
+2024-11-22,Micrófono Condensador,Energía,20,127.47,2549.4,Freelancer
+2024-08-24,Tablet Samsung,Software,16,371.42,5942.72,Distribuidor D
+2024-03-20,Silla Ergonómica,Mobiliario,14,513.8,7193.2,Freelancer
+2024-02-25,Micrófono Condensador,Mobiliario,5,537.27,2686.35,Empresa B
+2024-10-12,Audífonos Bluetooth,Almacenamiento,8,77.76,622.08,Empresa B
+2024-10-15,Memoria RAM 16GB,Software,18,909.16,16364.88,Distribuidor D
+2024-08-02,Teclado Mecánico,Accesorios,13,101.51,1319.63,Empresa B
+2024-06-18,Router WiFi 6,Componentes,4,835.1,3340.4,Startup C
+2024-06-15,Escritorio Gamer,Redes,13,15.45,200.85,Empresa A
+2024-04-12,Mouse Inalámbrico,Redes,17,226.82,3855.94,Startup C
+2024-03-24,Router WiFi 6,Mobiliario,13,31.46,408.98,Startup C
+2024-12-24,SSD NVMe 1TB,Software,4,271.17,1084.68,Empresa B
+2024-02-12,Base Refrigerante,Mobiliario,2,645.94,1291.88,Distribuidor D
+2024-12-06,Micrófono Condensador,Audio & Video,7,178.91,1252.37,Empresa B
+2024-02-08,Hub USB 3.0,Periféricos,17,661.09,11238.53,Startup C
+2024-03-12,Panel de Control Stream Deck,Periféricos,18,738.65,13295.7,Empresa B
+2024-08-10,Fuente 750W Modular,Componentes,18,434.43,7819.74,Startup C
+2024-02-23,Memoria RAM 16GB,Periféricos,9,599.45,5395.05,Empresa B
+2024-02-16,Silla Ergonómica,Energía,9,78.33,704.97,Empresa B
+2024-08-12,Silla Ergonómica,Almacenamiento,6,63.34,380.04,Empresa A
+2024-06-26,Mochila para Laptop,Componentes,15,842.52,12637.8,Empresa A
+2024-08-09,Procesador AMD Ryzen 9,Redes,17,715.56,12164.52,Freelancer
+2024-10-17,Silla Ergonómica,Redes,10,337.48,3374.8,Empresa A
+2024-01-17,Soporte para Monitor,Mobiliario,9,504.46,4540.14,Empresa B
+2024-03-28,Mouse Inalámbrico,Energía,7,955.26,6686.82,Freelancer
+2024-10-26,Placa de Video RTX 3060,Audio & Video,7,452.28,3165.96,Empresa B
+2024-01-13,Memoria RAM 16GB,Software,13,415.33,5399.29,Empresa A
+2024-07-01,Laptop Dell XPS,Software,11,515.79,5673.69,Freelancer
+2024-10-10,Cámara Web HD,Software,9,845.72,7611.48,Freelancer
+2024-02-24,Mouse Inalámbrico,Accesorios,1,882.5,882.5,Freelancer
+2024-04-12,Impresora Láser,Software,17,868.51,14764.67,Distribuidor D
+2024-03-12,SSD NVMe 1TB,Almacenamiento,4,874.58,3498.32,Distribuidor D
+2024-10-12,Base Refrigerante,Software,1,112.36,112.36,Empresa A
+2024-12-24,Soporte para Monitor,Mobiliario,12,82.81,993.72,Empresa A
+2024-06-13,Licencia Visual Studio,Audio & Video,15,344.52,5167.8,Freelancer
+2024-10-01,Silla Ergonómica,Software,12,704.47,8453.64,Freelancer
+2024-11-24,Micrófono Condensador,Componentes,15,180.97,2714.55,Distribuidor D
+2024-02-25,SSD NVMe 1TB,Software,17,592.47,10071.99,Distribuidor D
+2024-04-27,Escritorio Gamer,Componentes,20,884.64,17692.8,Empresa A
+2024-09-04,Placa de Video RTX 3060,Energía,13,477.95,6213.35,Empresa B
+2024-04-10,Fuente 750W Modular,Periféricos,9,208.56,1877.04,Freelancer
+2024-05-25,Licencia Visual Studio,Periféricos,8,128.69,1029.52,Startup C
+2024-07-01,Memoria RAM 16GB,Redes,13,722.35,9390.55,Distribuidor D
+2024-12-11,Audífonos Bluetooth,Periféricos,1,897.23,897.23,Distribuidor D
+2024-04-14,Monitor 27'' 4K,Componentes,2,691.92,1383.84,Startup C
+2024-09-13,Memoria RAM 16GB,Monitores,5,897.16,4485.8,Freelancer
+2024-03-17,Base Refrigerante,Mobiliario,18,140.39,2527.02,Freelancer
+2024-08-06,Placa de Video RTX 3060,Componentes,13,822.92,10697.96,Distribuidor D
+2024-01-28,Memoria RAM 16GB,Periféricos,4,922.21,3688.84,Distribuidor D
+2024-04-01,Monitor 27'' 4K,Redes,15,213.49,3202.35,Empresa A
+2024-09-27,Licencia Visual Studio,Audio & Video,3,940.92,2822.76,Startup C
+2024-11-15,Base Refrigerante,Almacenamiento,18,698.88,12579.84,Freelancer
+2024-05-06,SSD NVMe 1TB,Accesorios,8,501.31,4010.48,Distribuidor D
+2024-02-15,Cargador USB-C,Monitores,4,475.39,1901.56,Distribuidor D
+2024-04-28,SSD NVMe 1TB,Accesorios,2,266.88,533.76,Freelancer
+2024-04-24,Monitor 27'' 4K,Componentes,20,668.89,13377.8,Empresa B
+2024-11-12,Hub USB 3.0,Periféricos,5,322.8,1614.0,Empresa B
+2024-02-27,Mouse Inalámbrico,Software,19,790.5,15019.5,Freelancer
+2024-01-20,Cámara Web HD,Accesorios,4,401.06,1604.24,Empresa B
+2024-02-27,Silla Ergonómica,Componentes,8,624.23,4993.84,Distribuidor D
+2024-12-28,Procesador AMD Ryzen 9,Redes,5,16.3,81.5,Startup C
+2024-10-25,Mouse Inalámbrico,Monitores,11,371.89,4090.79,Empresa A
+2024-06-24,Laptop Dell XPS,Monitores,10,458.79,4587.9,Distribuidor D
+2024-05-01,Placa de Video RTX 3060,Almacenamiento,2,227.97,455.94,Freelancer
+2024-04-08,Monitor 27'' 4K,Almacenamiento,1,570.63,570.63,Empresa B
+2024-06-16,Laptop Dell XPS,Almacenamiento,18,710.54,12789.72,Freelancer
+2024-01-07,Micrófono Condensador,Audio & Video,4,871.31,3485.24,Empresa A
+2024-11-27,Panel de Control Stream Deck,Monitores,7,443.98,3107.86,Freelancer
+2024-11-19,Tablet Samsung,Redes,1,523.67,523.67,Freelancer
+2024-05-17,Cargador USB-C,Mobiliario,9,696.24,6266.16,Startup C
+2024-01-22,Lámpara LED,Software,11,707.39,7781.29,Freelancer
+2024-05-21,Cámara Web HD,Software,7,678.83,4751.81,Distribuidor D
+2024-06-03,SSD NVMe 1TB,Software,15,846.63,12699.45,Distribuidor D
+2024-01-27,Memoria RAM 16GB,Mobiliario,2,406.24,812.48,Freelancer
+2024-04-19,Laptop Dell XPS,Redes,18,172.1,3097.8,Empresa B
+2024-06-09,SSD NVMe 1TB,Software,3,447.34,1342.02,Empresa A
+2024-05-24,Procesador AMD Ryzen 9,Monitores,3,325.99,977.97,Empresa A
+2024-09-10,Laptop Dell XPS,Audio & Video,10,323.51,3235.1,Freelancer
+2024-01-11,Escritorio Gamer,Accesorios,13,21.11,274.43,Freelancer
+2024-07-03,Silla Ergonómica,Software,16,260.76,4172.16,Empresa B
+2024-05-20,Impresora Láser,Componentes,15,233.76,3506.4,Empresa A
+2024-09-12,SSD NVMe 1TB,Componentes,13,645.66,8393.58,Distribuidor D
+2024-01-07,Lámpara LED,Accesorios,3,855.16,2565.48,Distribuidor D
+2024-11-28,Hub USB 3.0,Audio & Video,6,328.89,1973.34,Empresa A
+2024-12-01,Hub USB 3.0,Redes,2,235.4,470.8,Freelancer
+2024-04-08,Impresora Láser,Periféricos,8,537.72,4301.76,Freelancer
+2024-03-15,Memoria RAM 16GB,Audio & Video,18,682.61,12286.98,Startup C
+2024-01-10,Soporte para Monitor,Audio & Video,6,524.78,3148.68,Empresa B
+2024-11-23,Memoria RAM 16GB,Almacenamiento,5,881.97,4409.85,Empresa A
+2024-08-08,Procesador AMD Ryzen 9,Almacenamiento,13,265.58,3452.54,Empresa A
+2024-01-21,Placa de Video RTX 3060,Componentes,17,965.29,16409.93,Distribuidor D
+2024-04-09,Teclado Mecánico,Monitores,17,616.58,10481.86,Distribuidor D
+2024-07-27,Audífonos Bluetooth,Redes,20,816.17,16323.4,Freelancer
+2024-12-05,SSD NVMe 1TB,Redes,19,763.37,14504.03,Freelancer
+2024-11-21,Cámara Web HD,Accesorios,12,53.11,637.32,Empresa B
+2024-09-13,Silla Ergonómica,Redes,6,543.91,3263.46,Startup C
+2024-08-01,Teclado Mecánico,Periféricos,8,778.91,6231.28,Freelancer
+2024-12-25,Memoria RAM 16GB,Periféricos,9,427.2,3844.8,Freelancer
+2024-08-10,Panel de Control Stream Deck,Mobiliario,6,286.64,1719.84,Empresa B
+2024-11-23,Monitor 27'' 4K,Mobiliario,3,149.13,447.39,Startup C
+2024-07-27,Silla Ergonómica,Audio & Video,15,898.58,13478.7,Freelancer
+2024-02-12,Cargador USB-C,Mobiliario,4,62.6,250.4,Empresa A
+2024-03-09,Cargador USB-C,Accesorios,8,433.67,3469.36,Empresa A
+2024-11-22,Base Refrigerante,Redes,1,114.77,114.77,Startup C
+2024-12-22,Tablet Samsung,Componentes,9,675.26,6077.34,Empresa B
+2024-12-09,Base Refrigerante,Redes,7,313.18,2192.26,Distribuidor D
+2024-03-08,SSD NVMe 1TB,Energía,14,46.3,648.2,Freelancer
+2024-01-19,Audífonos Bluetooth,Accesorios,8,613.45,4907.6,Distribuidor D
+2024-04-12,Lámpara LED,Redes,8,868.08,6944.64,Empresa A
+2024-07-03,Tablet Samsung,Audio & Video,2,220.01,440.02,Empresa A
+2024-06-23,Mochila para Laptop,Audio & Video,18,806.62,14519.16,Empresa B
+2024-02-17,Cámara Web HD,Energía,7,747.53,5232.71,Freelancer
+2024-01-24,Panel de Control Stream Deck,Componentes,2,289.09,578.18,Empresa B
+2024-11-06,Micrófono Condensador,Energía,12,422.98,5075.76,Distribuidor D
+2024-11-19,Teclado Mecánico,Redes,4,794.59,3178.36,Distribuidor D
+2024-11-21,Tablet Samsung,Energía,9,832.43,7491.87,Distribuidor D
+2024-09-12,Mochila para Laptop,Audio & Video,18,123.1,2215.8,Empresa A
+2024-08-04,Cámara Web HD,Almacenamiento,18,688.7,12396.6,Freelancer
+2024-03-17,Audífonos Bluetooth,Accesorios,18,221.48,3986.64,Empresa A
+2024-09-09,Micrófono Condensador,Accesorios,11,31.22,343.42,Startup C
+2024-04-13,Memoria RAM 16GB,Periféricos,17,312.07,5305.19,Empresa B
+2024-05-04,Licencia Visual Studio,Software,17,134.12,2280.04,Startup C
+2024-04-09,Impresora Láser,Componentes,14,587.66,8227.24,Distribuidor D
+2024-08-19,Micrófono Condensador,Energía,20,258.82,5176.4,Distribuidor D
+2024-05-16,Lámpara LED,Accesorios,6,268.48,1610.88,Empresa B
+2024-03-13,Hub USB 3.0,Redes,11,111.84,1230.24,Distribuidor D
+2024-12-01,Silla Ergonómica,Accesorios,9,77.55,697.95,Freelancer
+2024-11-13,SSD NVMe 1TB,Componentes,2,619.38,1238.76,Empresa B
+2024-03-18,Laptop Dell XPS,Software,16,318.25,5092.0,Empresa B
+2024-03-26,Cargador USB-C,Audio & Video,20,538.38,10767.6,Empresa B
+2024-07-04,Router WiFi 6,Software,7,238.36,1668.52,Empresa B
+2024-09-05,Licencia Visual Studio,Energía,2,340.56,681.12,Empresa B
+2024-08-05,Mouse Inalámbrico,Energía,4,160.26,641.04,Distribuidor D
+2024-09-01,Soporte para Monitor,Energía,9,278.88,2509.92,Empresa A
+2024-04-03,Placa de Video RTX 3060,Monitores,4,34.63,138.52,Freelancer
+2024-02-13,Licencia Visual Studio,Redes,7,647.4,4531.8,Distribuidor D
+2024-04-07,Silla Ergonómica,Almacenamiento,10,310.28,3102.8,Distribuidor D
+2024-11-28,Cargador USB-C,Energía,17,70.52,1198.84,Empresa A
+2024-04-03,Mochila para Laptop,Monitores,7,12.16,85.12,Freelancer
+2024-01-21,Micrófono Condensador,Mobiliario,1,105.94,105.94,Distribuidor D
+2024-04-15,Cargador USB-C,Accesorios,20,20.13,402.6,Empresa A
+2024-07-03,Placa de Video RTX 3060,Audio & Video,12,860.74,10328.88,Startup C
+2024-12-02,Licencia Visual Studio,Software,19,740.28,14065.32,Distribuidor D
+2024-02-02,Placa de Video RTX 3060,Software,10,989.94,9899.4,Empresa A
+2024-10-19,Laptop Dell XPS,Redes,13,84.24,1095.12,Empresa A
+2024-02-01,Mouse Inalámbrico,Periféricos,12,534.87,6418.44,Distribuidor D
+2024-09-18,Router WiFi 6,Mobiliario,13,586.5,7624.5,Freelancer
+2024-09-03,SSD NVMe 1TB,Almacenamiento,4,240.36,961.44,Freelancer
+2024-06-13,Fuente 750W Modular,Almacenamiento,11,794.59,8740.49,Distribuidor D
+2024-05-22,Audífonos Bluetooth,Accesorios,8,277.73,2221.84,Distribuidor D
+2024-12-02,Memoria RAM 16GB,Almacenamiento,18,820.01,14760.18,Empresa B
+2024-05-21,Audífonos Bluetooth,Componentes,8,225.0,1800.0,Distribuidor D
+2024-04-27,Licencia Visual Studio,Monitores,14,796.29,11148.06,Startup C
+2024-07-01,Mochila para Laptop,Redes,5,329.91,1649.55,Empresa A
+2024-07-18,Fuente 750W Modular,Periféricos,1,421.87,421.87,Startup C
+2024-01-23,Tablet Samsung,Redes,14,234.71,3285.94,Freelancer
+2024-02-28,Soporte para Monitor,Almacenamiento,20,812.98,16259.6,Freelancer
+2024-04-17,Cámara Web HD,Almacenamiento,12,909.88,10918.56,Empresa B
+2024-09-17,Soporte para Monitor,Periféricos,1,115.98,115.98,Startup C
+2024-10-24,Silla Ergonómica,Audio & Video,8,911.4,7291.2,Startup C
+2024-10-27,Mochila para Laptop,Accesorios,15,219.8,3297.0,Empresa A
+2024-02-21,Escritorio Gamer,Software,10,243.39,2433.9,Empresa B
+2024-06-11,Impresora Láser,Periféricos,4,417.24,1668.96,Empresa A
+2024-01-12,Licencia Visual Studio,Accesorios,5,431.73,2158.65,Startup C
+2024-09-25,Lámpara LED,Audio & Video,14,302.23,4231.22,Distribuidor D
+2024-12-02,Tablet Samsung,Componentes,7,661.62,4631.34,Freelancer
+2024-10-26,Memoria RAM 16GB,Audio & Video,18,619.19,11145.42,Startup C
+2024-11-08,Laptop Dell XPS,Accesorios,2,678.53,1357.06,Freelancer
+2024-10-21,Impresora Láser,Energía,8,215.47,1723.76,Empresa A
+2024-04-10,Router WiFi 6,Redes,8,587.56,4700.48,Empresa A
+2024-06-16,Micrófono Condensador,Redes,1,277.56,277.56,Freelancer
+2024-12-20,Monitor 27'' 4K,Mobiliario,8,535.98,4287.84,Empresa A
+2024-07-22,Impresora Láser,Audio & Video,14,904.44,12662.16,Freelancer
+2024-11-05,Panel de Control Stream Deck,Energía,4,809.99,3239.96,Empresa A
+2024-12-17,Monitor 27'' 4K,Almacenamiento,3,307.11,921.33,Empresa B
+2024-03-02,Micrófono Condensador,Accesorios,19,346.75,6588.25,Empresa A
+2024-02-18,Mochila para Laptop,Audio & Video,5,312.43,1562.15,Empresa A
+2024-05-15,Teclado Mecánico,Mobiliario,12,446.54,5358.48,Empresa B
+2024-06-27,Escritorio Gamer,Almacenamiento,6,560.56,3363.36,Distribuidor D
+2024-03-28,Teclado Mecánico,Accesorios,11,767.79,8445.69,Startup C
+2024-12-14,Teclado Mecánico,Almacenamiento,5,323.72,1618.6,Empresa A
+2024-12-10,Soporte para Monitor,Almacenamiento,16,524.68,8394.88,Freelancer
+2024-01-14,Silla Ergonómica,Redes,13,579.34,7531.42,Empresa B
+2024-07-25,Panel de Control Stream Deck,Periféricos,16,80.26,1284.16,Freelancer
+2024-05-12,Base Refrigerante,Accesorios,16,643.5,10296.0,Startup C
+2024-02-24,Hub USB 3.0,Redes,9,617.8,5560.2,Empresa A
+2024-11-13,Fuente 750W Modular,Audio & Video,5,909.95,4549.75,Startup C
+2024-01-26,Audífonos Bluetooth,Accesorios,13,251.7,3272.1,Distribuidor D
+2024-03-08,Base Refrigerante,Monitores,11,838.18,9219.98,Empresa B
+2024-11-08,Monitor 27'' 4K,Monitores,16,221.56,3544.96,Freelancer
+2024-04-05,Mouse Inalámbrico,Software,13,586.34,7622.42,Startup C
+2024-07-18,Lámpara LED,Componentes,3,853.76,2561.28,Startup C
+2024-01-19,Mouse Inalámbrico,Componentes,6,201.97,1211.82,Distribuidor D
+2024-08-16,Mochila para Laptop,Mobiliario,16,737.34,11797.44,Startup C
+2024-07-07,Mochila para Laptop,Accesorios,7,488.97,3422.79,Empresa B
+2024-05-26,Impresora Láser,Almacenamiento,14,348.05,4872.7,Distribuidor D
+2024-04-16,Cargador USB-C,Redes,11,729.86,8028.46,Distribuidor D
+2024-02-02,Mochila para Laptop,Monitores,10,393.68,3936.8,Freelancer
+2024-02-11,Soporte para Monitor,Accesorios,6,644.73,3868.38,Distribuidor D
+2024-06-19,Laptop Dell XPS,Monitores,19,557.84,10598.96,Freelancer
+2024-06-21,Fuente 750W Modular,Redes,16,792.52,12680.32,Empresa B
+2024-07-26,Laptop Dell XPS,Almacenamiento,18,481.51,8667.18,Distribuidor D
+2024-07-07,Lámpara LED,Periféricos,4,986.33,3945.32,Distribuidor D
+2024-07-19,Mouse Inalámbrico,Periféricos,2,479.14,958.28,Empresa B
+2024-07-10,Monitor 27'' 4K,Accesorios,9,822.16,7399.44,Freelancer
+2024-12-25,Teclado Mecánico,Software,18,128.44,2311.92,Freelancer
+2024-12-24,Micrófono Condensador,Energía,17,717.23,12192.91,Distribuidor D
+2024-12-04,Lámpara LED,Redes,19,115.99,2203.81,Freelancer
+2024-10-23,Cámara Web HD,Redes,1,548.18,548.18,Freelancer
+2024-01-02,Monitor 27'' 4K,Monitores,15,644.59,9668.85,Startup C
+2024-01-01,Fuente 750W Modular,Componentes,12,870.22,10442.64,Empresa A
+2024-04-16,Base Refrigerante,Mobiliario,19,555.31,10550.89,Empresa A
+2024-04-26,Router WiFi 6,Accesorios,16,989.38,15830.08,Empresa B
+2024-04-06,SSD NVMe 1TB,Almacenamiento,2,564.16,1128.32,Empresa B
+2024-07-27,Cargador USB-C,Software,16,189.23,3027.68,Startup C
+2024-10-17,Impresora Láser,Componentes,7,824.89,5774.23,Distribuidor D
+2024-11-06,Soporte para Monitor,Redes,8,510.81,4086.48,Empresa B
+2024-11-28,Memoria RAM 16GB,Monitores,7,805.73,5640.11,Startup C
+2024-03-28,Mouse Inalámbrico,Mobiliario,4,239.02,956.08,Empresa A
+2024-06-03,SSD NVMe 1TB,Audio & Video,15,228.14,3422.1,Empresa B
+2024-12-28,Audífonos Bluetooth,Redes,3,118.7,356.1,Freelancer
+2024-05-09,Hub USB 3.0,Almacenamiento,13,483.41,6284.33,Startup C
+2024-03-22,Lámpara LED,Software,3,131.44,394.32,Freelancer
+2024-01-13,Silla Ergonómica,Audio & Video,18,527.58,9496.44,Startup C
+2024-10-11,Soporte para Monitor,Redes,7,582.97,4080.79,Startup C
+2024-06-06,Monitor 27'' 4K,Software,16,750.29,12004.64,Freelancer
+2024-05-21,Licencia Visual Studio,Periféricos,15,491.43,7371.45,Freelancer
+2024-04-18,Mouse Inalámbrico,Monitores,12,154.4,1852.8,Startup C
+2024-10-03,Fuente 750W Modular,Software,6,486.04,2916.24,Freelancer
+2024-03-07,Hub USB 3.0,Monitores,18,368.47,6632.46,Empresa B
+2024-05-14,Procesador AMD Ryzen 9,Mobiliario,14,521.73,7304.22,Freelancer
+2024-06-05,Impresora Láser,Redes,18,942.93,16972.74,Empresa B
+2024-04-13,Mochila para Laptop,Monitores,1,556.74,556.74,Empresa A
+2024-09-14,Audífonos Bluetooth,Periféricos,12,212.05,2544.6,Distribuidor D
+2024-06-04,Hub USB 3.0,Audio & Video,20,415.0,8300.0,Freelancer
+2024-04-21,Silla Ergonómica,Audio & Video,6,944.11,5664.66,Empresa B
+2024-06-27,Mouse Inalámbrico,Software,20,630.22,12604.4,Freelancer
+2024-08-22,Lámpara LED,Mobiliario,10,829.32,8293.2,Empresa B
+2024-09-27,Impresora Láser,Accesorios,19,161.09,3060.71,Empresa A
+2024-04-18,Micrófono Condensador,Monitores,6,253.31,1519.86,Startup C
+2024-11-28,Placa de Video RTX 3060,Software,18,910.55,16389.9,Empresa A
+2024-03-06,Micrófono Condensador,Audio & Video,11,282.13,3103.43,Startup C
+2024-06-27,Panel de Control Stream Deck,Almacenamiento,8,398.02,3184.16,Distribuidor D
+2024-08-17,Panel de Control Stream Deck,Redes,12,639.87,7678.44,Freelancer
+2024-10-06,Placa de Video RTX 3060,Almacenamiento,8,133.29,1066.32,Startup C
+2024-12-15,Panel de Control Stream Deck,Monitores,18,908.96,16361.28,Empresa B
+2024-08-09,Memoria RAM 16GB,Audio & Video,8,918.35,7346.8,Startup C
+2024-03-06,Mochila para Laptop,Almacenamiento,16,902.62,14441.92,Freelancer
+2024-10-21,Teclado Mecánico,Periféricos,7,247.28,1730.96,Startup C
+2024-07-23,Licencia Visual Studio,Monitores,10,432.57,4325.7,Startup C
+2024-01-21,Memoria RAM 16GB,Mobiliario,9,112.19,1009.71,Distribuidor D
+2024-05-17,Tablet Samsung,Monitores,18,508.84,9159.12,Empresa A
+2024-03-25,Memoria RAM 16GB,Energía,13,818.27,10637.51,Distribuidor D
+2024-03-26,Teclado Mecánico,Accesorios,11,666.71,7333.81,Startup C
+2024-11-21,Escritorio Gamer,Almacenamiento,4,75.18,300.72,Startup C
+2024-06-07,Mochila para Laptop,Periféricos,9,142.88,1285.92,Empresa A
+2024-05-28,Router WiFi 6,Accesorios,17,986.03,16762.51,Startup C
+2024-11-13,Procesador AMD Ryzen 9,Periféricos,12,468.56,5622.72,Freelancer
+2024-06-20,Panel de Control Stream Deck,Redes,1,748.4,748.4,Empresa B
+2024-04-17,SSD NVMe 1TB,Almacenamiento,8,553.87,4430.96,Empresa B
+2024-10-24,Tablet Samsung,Audio & Video,3,191.29,573.87,Startup C
+2024-12-08,Licencia Visual Studio,Accesorios,2,270.53,541.06,Empresa B
+2024-09-22,Impresora Láser,Mobiliario,13,546.51,7104.63,Startup C
+2024-05-03,Micrófono Condensador,Energía,5,190.19,950.95,Freelancer
+2024-09-10,Panel de Control Stream Deck,Periféricos,1,266.32,266.32,Freelancer
+2024-10-18,Fuente 750W Modular,Audio & Video,6,682.99,4097.94,Startup C
+2024-10-27,Router WiFi 6,Accesorios,18,716.98,12905.64,Startup C
+2024-05-03,Panel de Control Stream Deck,Accesorios,16,274.58,4393.28,Freelancer
+2024-03-13,Laptop Dell XPS,Accesorios,9,145.29,1307.61,Distribuidor D
+2024-08-18,Teclado Mecánico,Accesorios,13,886.41,11523.33,Distribuidor D
+2024-10-08,Panel de Control Stream Deck,Software,17,321.3,5462.1,Empresa B
+2024-05-09,Silla Ergonómica,Energía,7,398.97,2792.79,Empresa B
+2024-05-05,Micrófono Condensador,Mobiliario,17,637.28,10833.76,Freelancer
+2024-08-06,Panel de Control Stream Deck,Energía,8,651.71,5213.68,Distribuidor D
+2024-06-05,Micrófono Condensador,Periféricos,2,92.52,185.04,Freelancer
+2024-03-23,Hub USB 3.0,Periféricos,7,76.82,537.74,Empresa B
+2024-09-14,Impresora Láser,Audio & Video,20,468.43,9368.6,Freelancer
+2024-04-18,Monitor 27'' 4K,Almacenamiento,8,710.06,5680.48,Freelancer
+2024-01-03,Router WiFi 6,Software,10,643.6,6436.0,Startup C
+2024-04-28,SSD NVMe 1TB,Componentes,12,296.98,3563.76,Distribuidor D
+2024-03-07,Monitor 27'' 4K,Energía,12,473.57,5682.84,Empresa B
+2024-08-25,Impresora Láser,Audio & Video,1,210.65,210.65,Distribuidor D
+2024-11-17,Impresora Láser,Almacenamiento,20,346.68,6933.6,Freelancer
+2024-06-02,Monitor 27'' 4K,Audio & Video,13,444.52,5778.76,Startup C
+2024-08-01,Memoria RAM 16GB,Accesorios,7,59.43,416.01,Distribuidor D
+2024-12-06,Impresora Láser,Energía,6,174.52,1047.12,Empresa B
+2024-10-16,Lámpara LED,Almacenamiento,19,265.43,5043.17,Empresa A
+2024-11-07,Procesador AMD Ryzen 9,Audio & Video,7,643.21,4502.47,Empresa B
+2024-02-13,Base Refrigerante,Componentes,6,467.58,2805.48,Freelancer
+2024-01-26,Soporte para Monitor,Accesorios,1,236.31,236.31,Distribuidor D
+2024-05-02,Silla Ergonómica,Periféricos,9,154.93,1394.37,Distribuidor D
+2024-05-26,Audífonos Bluetooth,Redes,8,883.87,7070.96,Empresa B
+2024-08-17,Micrófono Condensador,Almacenamiento,20,801.38,16027.6,Empresa A
+2024-03-27,Tablet Samsung,Monitores,2,619.6,1239.2,Distribuidor D
+2024-09-25,Monitor 27'' 4K,Monitores,5,293.96,1469.8,Empresa B
+2024-09-06,Monitor 27'' 4K,Redes,2,724.36,1448.72,Startup C
+2024-06-19,Licencia Visual Studio,Redes,11,149.25,1641.75,Freelancer
+2024-09-08,SSD NVMe 1TB,Audio & Video,6,871.53,5229.18,Startup C
+2024-08-27,Soporte para Monitor,Energía,2,687.94,1375.88,Startup C
+2024-12-24,Cámara Web HD,Energía,6,428.1,2568.6,Empresa B
+2024-02-03,Router WiFi 6,Mobiliario,1,892.57,892.57,Startup C
+2024-02-04,Silla Ergonómica,Mobiliario,4,500.91,2003.64,Freelancer
+2024-06-24,Panel de Control Stream Deck,Monitores,12,152.5,1830.0,Freelancer
+2024-03-27,Lámpara LED,Accesorios,13,993.34,12913.42,Empresa B
+2024-11-04,Hub USB 3.0,Mobiliario,15,918.75,13781.25,Empresa A
+2024-10-10,Mouse Inalámbrico,Almacenamiento,8,765.78,6126.24,Startup C
+2024-09-02,Procesador AMD Ryzen 9,Almacenamiento,8,91.36,730.88,Freelancer
+2024-09-24,Memoria RAM 16GB,Mobiliario,3,316.57,949.71,Empresa B
+2024-01-06,Panel de Control Stream Deck,Periféricos,9,125.49,1129.41,Empresa A
+2024-07-07,Router WiFi 6,Energía,3,991.77,2975.31,Distribuidor D
+2024-09-14,Soporte para Monitor,Almacenamiento,7,984.25,6889.75,Empresa B
+2024-01-02,Audífonos Bluetooth,Redes,17,155.98,2651.66,Distribuidor D
+2024-09-12,Escritorio Gamer,Periféricos,15,49.88,748.2,Empresa A
+2024-03-06,Impresora Láser,Software,15,455.56,6833.4,Freelancer
+2024-03-16,Licencia Visual Studio,Accesorios,14,915.15,12812.1,Empresa A
+2024-07-02,Procesador AMD Ryzen 9,Audio & Video,3,666.14,1998.42,Freelancer
+2024-08-03,Micrófono Condensador,Periféricos,17,573.12,9743.04,Empresa A
+2024-03-01,Micrófono Condensador,Almacenamiento,19,991.61,18840.59,Startup C
+2024-10-25,Placa de Video RTX 3060,Software,5,105.16,525.8,Empresa B
+2024-11-23,Base Refrigerante,Energía,1,818.67,818.67,Freelancer
+2024-01-01,Silla Ergonómica,Redes,20,727.6,14552.0,Distribuidor D
+2024-06-21,Laptop Dell XPS,Componentes,12,233.68,2804.16,Distribuidor D
+2024-09-04,SSD NVMe 1TB,Software,8,620.73,4965.84,Empresa B
+2024-04-04,Soporte para Monitor,Energía,15,593.62,8904.3,Empresa B
+2024-09-05,Mouse Inalámbrico,Audio & Video,19,545.48,10364.12,Empresa B
+2024-11-02,Router WiFi 6,Periféricos,14,805.98,11283.72,Empresa A
+2024-09-28,Silla Ergonómica,Componentes,7,967.68,6773.76,Freelancer
+2024-09-19,Escritorio Gamer,Mobiliario,6,518.7,3112.2,Empresa A
+2024-03-24,Lámpara LED,Software,10,693.76,6937.6,Distribuidor D
+2024-06-23,Tablet Samsung,Energía,12,520.62,6247.44,Distribuidor D
+2024-12-01,Mouse Inalámbrico,Monitores,7,506.36,3544.52,Empresa A
+2024-04-07,Teclado Mecánico,Audio & Video,17,243.44,4138.48,Empresa A
+2024-03-06,Cámara Web HD,Almacenamiento,8,920.76,7366.08,Empresa B
+2024-05-25,Cámara Web HD,Componentes,20,905.93,18118.6,Empresa B
+2024-12-26,Placa de Video RTX 3060,Monitores,4,757.94,3031.76,Distribuidor D
+2024-07-28,Laptop Dell XPS,Accesorios,1,625.45,625.45,Distribuidor D
+2024-11-05,Mochila para Laptop,Accesorios,16,379.88,6078.08,Empresa B
+2024-04-17,Hub USB 3.0,Audio & Video,12,282.75,3393.0,Freelancer
+2024-03-01,Soporte para Monitor,Periféricos,4,415.49,1661.96,Distribuidor D
+2024-11-28,Soporte para Monitor,Accesorios,12,896.1,10753.2,Empresa B
+2024-03-11,Tablet Samsung,Mobiliario,9,768.85,6919.65,Startup C
+2024-10-20,Soporte para Monitor,Componentes,20,860.48,17209.6,Startup C
+2024-09-01,Mouse Inalámbrico,Periféricos,3,951.53,2854.59,Empresa A
+2024-02-16,Cargador USB-C,Software,19,552.99,10506.81,Empresa A
+2024-07-16,SSD NVMe 1TB,Energía,16,23.12,369.92,Freelancer
+2024-02-26,Silla Ergonómica,Monitores,9,344.96,3104.64,Distribuidor D
+2024-06-21,Panel de Control Stream Deck,Redes,8,635.98,5087.84,Freelancer
+2024-12-23,Hub USB 3.0,Mobiliario,7,468.75,3281.25,Empresa B
+2024-09-09,Teclado Mecánico,Mobiliario,7,179.44,1256.08,Startup C
+2024-08-12,Mouse Inalámbrico,Redes,4,888.54,3554.16,Empresa B
+2024-09-25,Impresora Láser,Redes,3,529.96,1589.88,Freelancer
+2024-05-09,Silla Ergonómica,Redes,8,815.94,6527.52,Distribuidor D
+2024-06-20,Lámpara LED,Redes,2,13.38,26.76,Startup C
+2024-10-18,Laptop Dell XPS,Energía,2,283.48,566.96,Empresa A
+2024-01-07,Memoria RAM 16GB,Software,13,946.5,12304.5,Startup C
+2024-03-05,Licencia Visual Studio,Periféricos,5,456.68,2283.4,Empresa A
+2024-04-12,Mouse Inalámbrico,Energía,16,715.91,11454.56,Distribuidor D
+2024-03-18,Cargador USB-C,Energía,18,886.38,15954.84,Empresa A
+2024-04-02,Hub USB 3.0,Redes,6,709.68,4258.08,Startup C
+2024-05-12,Licencia Visual Studio,Componentes,11,314.33,3457.63,Distribuidor D
+2024-07-24,Base Refrigerante,Energía,16,226.55,3624.8,Distribuidor D
+2024-02-17,Escritorio Gamer,Componentes,9,383.87,3454.83,Empresa B
+2024-04-17,Mochila para Laptop,Mobiliario,17,205.05,3485.85,Freelancer
+2024-02-15,Cargador USB-C,Software,6,204.58,1227.48,Startup C
+2024-03-12,Laptop Dell XPS,Redes,14,73.91,1034.74,Distribuidor D
+2024-06-07,Mochila para Laptop,Audio & Video,7,346.95,2428.65,Distribuidor D
+2024-11-14,Impresora Láser,Almacenamiento,3,123.06,369.18,Empresa B
+2024-07-08,Fuente 750W Modular,Redes,15,755.85,11337.75,Empresa A
+2024-03-18,Impresora Láser,Accesorios,4,809.6,3238.4,Freelancer
+2024-09-14,Base Refrigerante,Energía,17,456.96,7768.32,Empresa B
+2024-07-07,Fuente 750W Modular,Monitores,10,73.64,736.4,Freelancer
+2024-06-26,Cargador USB-C,Monitores,2,394.27,788.54,Empresa B
+2024-12-18,Escritorio Gamer,Almacenamiento,2,922.73,1845.46,Freelancer
+2024-05-17,Hub USB 3.0,Software,16,801.13,12818.08,Startup C
